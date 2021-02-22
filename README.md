@@ -14,7 +14,7 @@ You will need Twitter API credentials from Twitter developer site.
 ## Clone and installation
  clone the repo
 ```
-     git hub clone 
+$ git clone https://github.com/girishyam/react-express.git 
 ```
  Install dependencies for both the apps by running npm install on expressbackend and reactclient folders
 ```
